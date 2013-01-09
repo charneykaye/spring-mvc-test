@@ -18,6 +18,8 @@
           <element id="library" level="project" name="spring-batch-2.1.9" />
           <element id="library" level="project" name="spring-mvc-3.1.2.RELEASE" />
         </element>
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       </element>
     </root>
   </artifact>

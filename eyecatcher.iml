@@ -11,7 +11,9 @@
         </webroots>
       </configuration>
       <facet type="google-app-engine" name="Google App Engine">
-        <configuration />
+        <configuration>
+          <sdk-home-path>C:/glassfish3/appengine-java-sdk-1.7.4</sdk-home-path>
+        </configuration>
       </facet>
     </facet>
     <facet type="Spring" name="Spring">
